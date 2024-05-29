@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "laravel/framework": "^10.0"
+    "laravel/framework": "^11.0"
   },
   "require-dev": {
     "phpspec/phpspec": "~2.1",
